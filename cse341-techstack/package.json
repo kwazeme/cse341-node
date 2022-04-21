@@ -1,0 +1,23 @@
+{
+  "name": "cse341-techstack",
+  "version": "1.0.0",
+  "description": "cse341 Web Backend Development - Web Server Tech Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwazeme/cse341-node.git"
+  },
+  "author": "Kwazeme Ogubie",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
